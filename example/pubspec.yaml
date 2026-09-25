@@ -1,0 +1,16 @@
+name: hand_interaction_example
+publish_to: none
+description: Example app for the hand_interaction package.
+
+environment:
+  sdk: ^3.10.0
+  flutter: ">=3.38.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  hand_interaction:
+    path: ../
+
+flutter:
+  uses-material-design: true
