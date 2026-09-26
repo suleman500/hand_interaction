@@ -1,6 +1,8 @@
 name: hand_interaction
 description: "A lightweight, source-agnostic Flutter package for turning 21-point hand landmarks into fist-gesture detection and object-touch interactions, with an optional display-only overlay widget."
 version: 0.1.0
+homepage: https://github.com/suleman500/hand_interaction
+repository: https://github.com/suleman500/hand_interaction
 
 environment:
   sdk: ^3.10.0
